@@ -1,0 +1,41 @@
+	html {
+		background-color: green;
+	}
+
+#header {color:red}
+
+#header_guea {color:orange}
+
+h3.stul {color:purple}
+
+p.stul {background-color: blue}
+
+p i {color:orange}
+
+p#example:first-letter {color:red}
+
+.href {color:black; text-decoration: none}
+
+.href:visited {color:orange; text-decoration: none}
+
+#poster {font-size: 1.1em; font-weight: bold; font-family: Molot, sans-serif; text-transform: capitalize; letter-spacing: 10px; line-height: 10px}
+
+#poster:hover
+	{background-color: orange; height: 10px; width: 10px;}
+
+#testblock
+	{overflow: scroll; border: 10px outset silver; border-bottom: outset orange; height: 30px; width: 600px; background: background-color:orange; margin: 14px; padding: 1px; font-size:9; font-family: Molot, sans-serif;}
+
+header {width:calc(100% - 20); height: 50px; background-color: #fff; border-bottom: 2px solid silver; padding: 10px ; font-family: Molot, sans-serif}
+
+footer {margin-top:10px;width:calc(100% - 20); height: 50px; background-color: #fff; border: 2px solid silver; font-family: Molot, sans-serif;}
+
+article {width: 20%; padding: 5px; float: right; margin-right: 150px; margin-top: 10px; height: 455px}
+
+aside {margin: 10px ;width: 900px;}
+
+article, aside {background-color: #fafafa; border-radius: 5px; border: 1px solid silver; box-sizing: border-box;}
+
+span {display: block;}
+
+ul {list-style: inside; list-style-type: square;}
